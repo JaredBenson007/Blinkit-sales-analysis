@@ -1,2 +1,21 @@
 # Blinkit-sales-analysis
 • Built a Power BI dashboard giving quick insights into Blinkit’s sales and outlet performance. • Created a Power BI report summarizing Blinkit’s key sales metrics and product trends. • Developed a compact Power BI dashboard for Blinkit to visualize sales, items, and outlet insights.
+KPI USED 
+Total Sales: The overall revenue generated from all items sold.
+Average Sales: The average revenue per sale.
+Number of Items: The total count of different items sold.
+Average Rating: The average customer rating for items sold. 
+CHARTS CREATED
+1. Total Sales by Fat Content:
+	Objective: Analyze the impact of fat content on total sales.
+	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+2. Total Sales by Item Type:
+	Objective: Identify the performance of different item types in terms of total sales.
+	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+3. Fat Content by Outlet for Total Sales:
+	Objective: Compare total sales across different outlets segmented by fat content.
+	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+4. Total Sales by Outlet Establishment:
+	Objective: Evaluate how the age or type of outlet establishment influences total sales.
+
+
