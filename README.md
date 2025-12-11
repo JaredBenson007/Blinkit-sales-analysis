@@ -3,6 +3,7 @@
 
 
 KPI USED 
+
 Total Sales: The overall revenue generated from all items sold.
 Average Sales: The average revenue per sale.
 Number of Items: The total count of different items sold.
